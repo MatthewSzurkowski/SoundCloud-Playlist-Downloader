@@ -86,9 +86,7 @@ def downloadLinks(links):
             downloadButton.click()
             time.sleep(5)
         linkCounter = linkCounter + 1
-            
-
-        
+               
 def main(playlistName):
     driver.maximize_window()
     collectScrollData()
