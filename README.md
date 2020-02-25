@@ -6,8 +6,11 @@ I have included chromedriver (for MacOS) which must be unzipped and it's locatio
 
 # System requirements:  
    python3
+   
    Selenium
+   
    Chromedriver
+   
    Chrome
 
 
